@@ -15,6 +15,13 @@
 		F1F922921CBF375C004A47A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1F922901CBF375C004A47A1 /* LaunchScreen.storyboard */; };
 		F1F9229D1CBF375D004A47A1 /* PhotoAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F9229C1CBF375D004A47A1 /* PhotoAnimationTests.m */; };
 		F1F922A81CBF375D004A47A1 /* PhotoAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F922A71CBF375D004A47A1 /* PhotoAnimationUITests.m */; };
+		F1F922BC1CBF3771004A47A1 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F922B51CBF3771004A47A1 /* 1.png */; };
+		F1F922BD1CBF3771004A47A1 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F922B61CBF3771004A47A1 /* 2.png */; };
+		F1F922BE1CBF3771004A47A1 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F922B71CBF3771004A47A1 /* 3.png */; };
+		F1F922BF1CBF3771004A47A1 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F922B81CBF3771004A47A1 /* 4.png */; };
+		F1F922C01CBF3771004A47A1 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F922B91CBF3771004A47A1 /* 5.png */; };
+		F1F922C11CBF3771004A47A1 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F922BA1CBF3771004A47A1 /* 6.png */; };
+		F1F922C21CBF3771004A47A1 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F922BB1CBF3771004A47A1 /* 7.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +58,13 @@
 		F1F922A31CBF375D004A47A1 /* PhotoAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1F922A71CBF375D004A47A1 /* PhotoAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhotoAnimationUITests.m; sourceTree = "<group>"; };
 		F1F922A91CBF375D004A47A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1F922B51CBF3771004A47A1 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		F1F922B61CBF3771004A47A1 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		F1F922B71CBF3771004A47A1 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		F1F922B81CBF3771004A47A1 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		F1F922B91CBF3771004A47A1 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		F1F922BA1CBF3771004A47A1 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		F1F922BB1CBF3771004A47A1 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +115,13 @@
 		F1F922811CBF375C004A47A1 /* PhotoAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				F1F922B51CBF3771004A47A1 /* 1.png */,
+				F1F922B61CBF3771004A47A1 /* 2.png */,
+				F1F922B71CBF3771004A47A1 /* 3.png */,
+				F1F922B81CBF3771004A47A1 /* 4.png */,
+				F1F922B91CBF3771004A47A1 /* 5.png */,
+				F1F922BA1CBF3771004A47A1 /* 6.png */,
+				F1F922BB1CBF3771004A47A1 /* 7.png */,
 				F1F922851CBF375C004A47A1 /* AppDelegate.h */,
 				F1F922861CBF375C004A47A1 /* AppDelegate.m */,
 				F1F922881CBF375C004A47A1 /* ViewController.h */,
@@ -244,6 +265,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1F922921CBF375C004A47A1 /* LaunchScreen.storyboard in Resources */,
+				F1F922BF1CBF3771004A47A1 /* 4.png in Resources */,
+				F1F922BC1CBF3771004A47A1 /* 1.png in Resources */,
+				F1F922C11CBF3771004A47A1 /* 6.png in Resources */,
+				F1F922BD1CBF3771004A47A1 /* 2.png in Resources */,
+				F1F922BE1CBF3771004A47A1 /* 3.png in Resources */,
+				F1F922C01CBF3771004A47A1 /* 5.png in Resources */,
+				F1F922C21CBF3771004A47A1 /* 7.png in Resources */,
 				F1F9228F1CBF375C004A47A1 /* Assets.xcassets in Resources */,
 				F1F9228D1CBF375C004A47A1 /* Main.storyboard in Resources */,
 			);

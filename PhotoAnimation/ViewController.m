@@ -16,7 +16,18 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSMutableArray * arr = [NSMutableArray arrayWithCapacity:1];
+    for (int i = 1; i <= 7;i++ ) {
+        UIImage * image = [UIImage imageNamed:[NSString stringWithFormat:@"%d" , i]];//6201e6c6jw1e84jvd5rbzg20c808jgm5－5（被拖移）
+        [arr addObject:image];
+    }
+    
+    UIImageView * aView = [[UIImageView alloc] initWithFrame:CGRectMake(0, 355, self.view.frame.size.width, 248)];
+    [self.view addSubview:aView];
+    aView.animationImages = arr;
+    aView.animationDuration = 2;
+    [aView startAnimating];
+    
 }
 
 - (void)didReceiveMemoryWarning {
